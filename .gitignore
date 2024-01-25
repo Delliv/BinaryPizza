@@ -1,0 +1,20 @@
+.vscode/
+.vs/
+Library/
+Logs/
+MonoBleedingEdge/
+obj/
+Packages/
+PlatformerSlider_Data/
+ProjectSettings/
+UserSettings/
+
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp.csproj
+PlatformerSlider v0.7 2020.3.sln
+PlatformerSlider.exe
+PlatformerSliderSensation.sln
+UnityCrashHandler64.exe
+UnityPlayer.dll
+.vsconfig
+Trafic_Project.sln
